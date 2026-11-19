@@ -1,0 +1,16 @@
+Buildium GL Account (example name),Buildium Account Type,QuickBooks Online Account,QBO Class,Notes
+Rent Income,Income,4000 Rental Income,Property,Monthly total per property from the owner statement
+Late Fee Income,Income,4020 Late Fees,Property,
+Other Tenant Charges,Income,4030 Other Tenant Income,Property,"Pet fees, damage charges kept from deposits"
+Repairs,Expense,6090 Repairs,Property,Review large items for capitalization
+Cleaning and Maintenance,Expense,6020 Cleaning & Maintenance,Property,
+Management Fees,Expense,6060 Management Fees,Property,Fee the owner pays the property manager
+Leasing Fees,Expense,6030 Commissions,Property,
+Property Taxes,Expense,6110 Property Taxes,Property,
+Insurance,Expense,6040 Insurance,Property,
+Utilities,Expense,6120 Utilities,Property,
+HOA Dues,Expense,6130 HOA Dues,Property,
+Security Deposit Liability,Liability,2200 Tenant Security Deposits Held,Property,Only if the owner tracks deposits held by the manager
+Owner Contribution,Equity,1040 Cash Held by Property Manager,Property,Money the owner sent to the manager's trust account
+Owner Distribution,Equity,1040 Cash Held by Property Manager,Property,Match the bank deposit as a transfer from 1040
+Operating Cash (trust),Asset,1040 Cash Held by Property Manager,Property,Should equal the owner statement ending balance
